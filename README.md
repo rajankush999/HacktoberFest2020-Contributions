@@ -10,7 +10,7 @@
 
   
   
-# Overview
+# Overview:
 The goal of this project is to help the beginners with their contributions in Open Source. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines. You can contribute to it in either of the following ways:
 
 
@@ -20,7 +20,7 @@ The goal of this project is to help the beginners with their contributions in Op
 	- Add a graphical game in your favorite programming language, **if and only if it's not already present in the repository.**
 	- Add a ML project you have worked on.
 
-# HacktoberFest-2020
+# HacktoberFest-2k20:
 
 Open source is changing the world - one pull request at a time. 
 
@@ -72,7 +72,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 
 ---
-## References
+## References:
 
 - [Hacktoberfest presented by DigitalOcean](https://hacktoberfest.digitalocean.com/)
 - [A participation guide for Hacktoberfest](https://dev.to/zenika/a-participation-guide-for-hacktoberfest-19c1)
